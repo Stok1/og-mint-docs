@@ -22,21 +22,6 @@
             ]
           },
           {
-            "group": "Установка и настройка",
-            "pages": [
-              {
-                "name": "iPhone",
-                "pages": [
-                  "install/iphone/index",
-                  "install/iphone/setup",
-                  "install/iphone/troubleshooting"
-                ]
-              },
-              "quickstart",
-              "development"
-            ]
-          },
-          {
             "group": "Полезная информация",
             "pages": [
               "useful-information/kak-obnovit-podpisku"
