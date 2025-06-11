@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "OpenGate База знаний",
   "colors": {
     "primary": "#864cff",
     "light": "#07C983",
