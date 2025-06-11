@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Полезная информация",
+            "pages": [
+              "useful-information/kak-obnovit-podpisku"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
