@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#289fd9",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -33,32 +33,12 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
       }
     ],
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Док 1",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
