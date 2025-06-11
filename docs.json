@@ -11,12 +11,27 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Инструкции",
         "groups": [
           {
             "group": "Get Started",
             "pages": [
               "index",
+              "quickstart",
+              "development"
+            ]
+          },
+          {
+            "group": "Установка и настройка",
+            "pages": [
+              {
+                "name": "iPhone",
+                "pages": [
+                  "install/iphone/index",
+                  "install/iphone/setup",
+                  "install/iphone/troubleshooting"
+                ]
+              },
               "quickstart",
               "development"
             ]
